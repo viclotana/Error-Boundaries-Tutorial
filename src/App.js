@@ -10,7 +10,7 @@ class App extends Component {
        <Artists artistName='Davido'></Artists>
        <Artists artistName='Mayorkun'></Artists>
        <Artists artistName='Dremo'></Artists>
-       <Artists artistName='Sinzu'></Artists>
+       <Artists artistName='peruzzi'></Artists>
       </div>
     );
   }
